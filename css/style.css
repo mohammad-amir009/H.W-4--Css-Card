@@ -1,0 +1,164 @@
+body {
+    background-color: black;
+}
+
+
+/*menu start */
+
+
+.menu {
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px;
+    margin: 0 10px;
+    color: black;
+
+}
+
+
+.m1 img {
+    width: 250px;
+}
+
+.m6 {
+    width: 70px;
+    margin: 10px 10px 10px auto;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    border-color: blanchedalmond;
+    margin-left: 200px;
+}
+
+.m7  {
+    width: 120px;
+    margin: 10px 10px 10px auto;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    border-color: blanchedalmond;
+    display: inline-block;
+
+}
+
+/*menu end*/
+.card {
+    color: rgb(249, 253, 251);
+
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline-block;
+    width: 500px;
+    margin: 20px 45px 20px 45px;
+    border-style: groove;
+    padding: 20px;
+    border-color: aquamarine;
+    text-align: justify;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+
+.card a {
+    color: azure;
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+    padding: 10px 20px;
+    transition: 300ms;
+}
+
+.card a:hover {
+
+    background-color: #555;
+    padding: 15px;
+}
+
+
+.c1 {
+    background-image: url(../image/1.avif);
+    background-size: cover;
+}
+
+.c2 {
+    background-image: url(../image/photo-2.avif);
+    background-size: cover;
+}
+
+.c3 {
+    background-image: url(../image/3.avif);
+    background-size: cover;
+    background-position: center;
+}
+
+.c4 {
+    background-image: url(../image/4.avif);
+    background-size: cover;
+}
+
+.c5 {
+    background-image: url(../image/5.avif);
+    background-size: cover;
+}
+
+.c6 {
+    background-image: url(../image/6\ re.avif);
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{ 
+    font-size: 60px;
+    text-align: center;
+    color: azure;
+}
+
+
+.card_2 {
+
+    width: 500px;
+    height: 550px;
+    color:black;
+    font-family: arial;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline-block;
+    margin: 20px 45px;
+    border-color: aquamarine;
+    border-radius: 20px;
+    box-sizing: border-box;
+    text-align: justify;
+    border-style: groove;
+    padding: 20px;
+    background-color: white;
+}
+
+.photography{
+             width: 400px;
+             height: 300px;
+             padding: 20px;
+             
+}
+
+.scooter{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+}
+
+.train{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+}
+
+.last{
+    width: 95%;
+    margin: auto;
+    transition: 0.3s;
+}
+.first{
+    width: 95%;
+    margin: auto;
+}
